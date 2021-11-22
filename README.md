@@ -15,6 +15,6 @@
 - Manual Sign In and Sign Up Functionality
 - 404 Page
 
-### Live Website
--[Netlify](https://awesome-beaver-205d60.netlify.app/)
--[Firebase](https://travo-a8443.web.app/)
+* Live Website
+[Netlify](https://awesome-beaver-205d60.netlify.app/) ||
+[Firebase](https://travo-a8443.web.app/)
